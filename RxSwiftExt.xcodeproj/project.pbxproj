@@ -269,6 +269,9 @@
 		E62D9D5B2199D8BB006636D7 /* BufferWithTriggerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E62D9D552199D188006636D7 /* BufferWithTriggerTests.swift */; };
 		E62D9D5C2199DC76006636D7 /* bufferWithTrigger.swift in Sources */ = {isa = PBXBuildFile; fileRef = E62D9D572199D1EF006636D7 /* bufferWithTrigger.swift */; };
 		E62D9D5D2199DC77006636D7 /* bufferWithTrigger.swift in Sources */ = {isa = PBXBuildFile; fileRef = E62D9D572199D1EF006636D7 /* bufferWithTrigger.swift */; };
+		F6AE884327F359E300E8D68A /* DoNotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AE884227F359E300E8D68A /* DoNotation.swift */; };
+		F6AE884427F359E300E8D68A /* DoNotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AE884227F359E300E8D68A /* DoNotation.swift */; };
+		F6AE884527F359E300E8D68A /* DoNotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AE884227F359E300E8D68A /* DoNotation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -488,6 +491,7 @@
 		E39C41F21F18B0EA007F2ACD /* RxSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RxSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E62D9D552199D188006636D7 /* BufferWithTriggerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BufferWithTriggerTests.swift; sourceTree = "<group>"; };
 		E62D9D572199D1EF006636D7 /* bufferWithTrigger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bufferWithTrigger.swift; sourceTree = "<group>"; };
+		F6AE884227F359E300E8D68A /* DoNotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoNotation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -689,6 +693,7 @@
 				C4D2153E20118A81009804AE /* ofType.swift */,
 				DC612871209E80810053CBB7 /* mapMany.swift */,
 				A23E148621A9EFC000CD5B2F /* partition.swift */,
+				F6AE884227F359E300E8D68A /* DoNotation.swift */,
 			);
 			path = RxSwift;
 			sourceTree = "<group>";
@@ -1241,6 +1246,7 @@
 				538607B61E6F334B000361DE /* pausable.swift in Sources */,
 				780CB21520A0ED1C00FD3F39 /* toSortedArray.swift in Sources */,
 				E62D9D582199D1EF006636D7 /* bufferWithTrigger.swift in Sources */,
+				F6AE884327F359E300E8D68A /* DoNotation.swift in Sources */,
 				98309EB11EDF159500BD07D9 /* filterMap.swift in Sources */,
 				53F336E81E70CBF700D35D38 /* distinct+RxCocoa.swift in Sources */,
 				A23E148721A9EFC000CD5B2F /* partition.swift in Sources */,
@@ -1320,6 +1326,7 @@
 				62512C6A1F0EAF950083A89F /* apply.swift in Sources */,
 				62512C6B1F0EAF950083A89F /* cascade.swift in Sources */,
 				62512C671F0EAF820083A89F /* distinct+RxCocoa.swift in Sources */,
+				F6AE884427F359E300E8D68A /* DoNotation.swift in Sources */,
 				62512C771F0EAF950083A89F /* pausableBuffered.swift in Sources */,
 				62512C761F0EAF950083A89F /* pausable.swift in Sources */,
 				62512C721F0EAF950083A89F /* materialized+elements.swift in Sources */,
@@ -1405,6 +1412,7 @@
 				E39C41DB1F18B08A007F2ACD /* apply.swift in Sources */,
 				E39C41DC1F18B08A007F2ACD /* cascade.swift in Sources */,
 				E39C41D81F18B086007F2ACD /* distinct+RxCocoa.swift in Sources */,
+				F6AE884527F359E300E8D68A /* DoNotation.swift in Sources */,
 				E39C41E81F18B08A007F2ACD /* pausableBuffered.swift in Sources */,
 				E39C41E71F18B08A007F2ACD /* pausable.swift in Sources */,
 				E39C41E31F18B08A007F2ACD /* materialized+elements.swift in Sources */,
